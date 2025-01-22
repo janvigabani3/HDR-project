@@ -13,6 +13,6 @@ A simple machine learning project to classify handwritten digits (0-9) using the
 
 ## Technologies Used
 - Python
-- TensorFlow / PyTorch
+- TensorFlow 
 - NumPy
 - Matplotlib
